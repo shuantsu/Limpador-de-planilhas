@@ -1,0 +1,6 @@
+build/
+dist/
+*.spec
+env/
+__pycache__/
+mtimes.pickle
