@@ -1,4 +1,4 @@
-# Spreadsheet cleaner 1.0
+# Limpador de planilhas 1.0
 
 Remove palavras e caracteres de uma planilha
 
