@@ -10,4 +10,4 @@ Remove palavras e caracteres de uma planilha
 4. Limpe as colunas selecionadas clicando no botão do meio
 5. Use o botão da direita para salvar, você pode salvar uma cópia (recomendado) ou sobrescrever o arquivo aberto selecionando ele mesmo
 
-![Baixar o executável](https://github.com/shuantsu/Limpador-de-planilhas/releases)
+[Baixar o executável](https://github.com/shuantsu/Limpador-de-planilhas/releases)
